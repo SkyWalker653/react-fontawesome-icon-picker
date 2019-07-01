@@ -1,7 +1,7 @@
 {
-  "name": "react-bootstrap-icon-picker",
+  "name": "react-fontawesome-icon-picker",
   "version": "1.0.0",
-  "description": "A react icon picker application.",
+  "description": "A react fontawesome icon picker application.",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.4.0"
