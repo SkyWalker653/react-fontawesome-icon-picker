@@ -9,7 +9,7 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 
 library.add(fas, fab);
 
-class ReactColorSquare extends React.PureComponent {
+class ReactIconPicker extends React.PureComponent {
   constructor(props) {
     super(props);
 
@@ -97,4 +97,4 @@ class ReactColorSquare extends React.PureComponent {
   }
 }
 
-export default ReactColorSquare;
+export default ReactIconPicker;
